@@ -1,0 +1,7 @@
+*.pyc
+*~
+_trial_temp/
+html
+build
+dist
+twisted_gears.egg-info/

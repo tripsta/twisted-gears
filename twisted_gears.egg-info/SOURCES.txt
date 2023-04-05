@@ -1,0 +1,13 @@
+AUTHORS
+MANIFEST.in
+examples/client.py
+examples/echo.py
+examples/worker.py
+twisted_gears.egg-info/PKG-INFO
+twisted_gears.egg-info/SOURCES.txt
+twisted_gears.egg-info/dependency_links.txt
+twisted_gears.egg-info/top_level.txt
+txgearman/__init__.py
+txgearman/client.py
+txgearman/constants.py
+txgearman/test_client.py
